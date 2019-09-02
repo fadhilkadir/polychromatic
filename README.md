@@ -1,4 +1,4 @@
-02/09/19: modified the tray applet file to include DPI 400 for my gaming. tested on DeathAdder Elite
+02/09/19: modified the tray applet file to include DPI 400 for my gaming (new applet file in fk-dpi). tested on DeathAdder Elite
 
 
 
