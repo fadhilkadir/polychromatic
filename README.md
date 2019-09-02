@@ -1,3 +1,7 @@
+02/09/19: modified the tray applet file to include DPI 400 for my gaming. tested on DeathAdder Elite
+
+
+
 ![Polychromatic](.readme/logo.png)
 
 A front-end for customising the functionality of your Razer perpherials under GNU/Linux.
